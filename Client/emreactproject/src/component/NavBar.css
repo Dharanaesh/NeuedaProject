@@ -1,0 +1,14 @@
+.active{
+    color:darkred;
+    border-bottom: 1px darkred;
+}
+.container-fluid{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 100px;
+}
+.nav-item{
+    height: auto;
+    width: 100px;
+    text-align: center;
+}

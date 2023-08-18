@@ -1,0 +1,14 @@
+.deleteDiv{
+    margin-top: 100px;
+}
+.alert-modal {
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    color:white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }

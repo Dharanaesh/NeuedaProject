@@ -1,0 +1,25 @@
+.userDiv{
+    margin-top: 100px;
+    background-color: azure;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+}
+
+.para{
+    text-align: center;
+    font-size: x-large;
+    color: darkslategray;
+    padding: 25px;
+}
+
+.nav-links{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color:  rgb(255, 238, 221);
+    color: rgb(205, 100, 209);
+    padding: 25px;
+    padding-bottom: 50px;
+    margin: 10px;
+}
